@@ -56,4 +56,5 @@
 
 - 🇧🇷 Portuguese — Native  
 - 🇺🇸 English — Fluent  
-- 🇪🇸 Spanish — Basic  
+- 🇪🇸 Spanish — Basic
+- ᴄɴ Chinese - Basic
